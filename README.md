@@ -1,3 +1,5 @@
+[![Build Status](https://nacertabib.visualstudio.com/PIPELINE-DOTNET-CORE/_apis/build/status/Naccer.pipelines-dotnet-core?branchName=master)](https://nacertabib.visualstudio.com/PIPELINE-DOTNET-CORE/_build/latest?definitionId=2&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
